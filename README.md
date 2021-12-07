@@ -31,3 +31,6 @@ Add 3 projects
 --->
 
 ## Art Portfolio :art:
+If you are curious and want to take a look at some of my art, feel free to [here](https://github.com/jazlynhellman/jazlynhellman/tree/main/jazhands_art).
+
+I recommend clicking "download" to view them in a better size. Hope you enjoy and welcome to my page!
