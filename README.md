@@ -18,6 +18,11 @@ My work was accepted as a Late Breaking Work paper to the CHI2021 conference. Ta
 
 ## Design Portfolio :black_nib:
 <!-- My design portfollio can be seen [here](). -->
+[OSS PD](https://github.com/jazlynhellman/oss-codesign) - Design prototype for LBW CHI2021; mechanism for open-source software's (OSS) repository to achieve participatory design with OSS designers and OSS end-users.
+
+[VideoWise](https://github.com/jazlynhellman/video-wise) - A video conferencing web-application for elderly individuals.
+
+[AI.D]() - 
 
 <!---
 Add CV
