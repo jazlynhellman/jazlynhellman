@@ -1,6 +1,7 @@
-## About 
-
+# Welcome to my page!
 :sunglasses:  Hi, I’m @jazlynhellman, a 24 year-old woman from New York currently living in Montreal, Quebec.
+
+## About 
 
 I’m a second year Master's student at McGill University conducting research at the intersection of HCI and software engineering under the supervision of Prof. Jin L.C. Guo
 and co-supervision of Prof. Jinghui Cheng. 
@@ -15,6 +16,10 @@ I have a B.A. in Software Engineering and International Development with minors 
 Check out my (pre-print) article on ["Generating GitHub Repository Descriptions: A Comparison of Manual and Automated Approaches"](https://arxiv.org/abs/2110.13283)! (2021)
 
 My work was accepted as a Late Breaking Work paper to the CHI2021 conference. Take a look at my paper ["Facilitating Asynchronous Participatory Design of Open Source Software: Bringing End Users into the Loop"](https://dl.acm.org/doi/10.1145/3411763.3451643) and my [teaser video](https://www.youtube.com/watch?v=_A_Ci6qpj8c&ab_channel=ACMSIGCHI)!
+
+# Design and Art
+
+Below you will find links to some of my designs, prototypes, and artwork. This is a mixture of work I've done for academic and personal purposes, but I'm excited for you to have a look at both!
 
 ## Design Portfolio :black_nib:
 <!-- My design portfollio can be seen [here](). -->
