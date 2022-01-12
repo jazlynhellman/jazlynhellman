@@ -27,7 +27,7 @@ Below you will find links to some of my designs, prototypes, and artwork. This i
 
 [VideoWise](https://github.com/jazlynhellman/video-wise) - A video conferencing web-application for elderly individuals. (2020)
 
-[AI.D](https://github.com/jazlynhellman/ChronicPainAid) - A personalized chronic pain management applicaiton using RNNs! (20219)
+[AI.D](https://github.com/jazlynhellman/ChronicPainAid) - A personalized chronic pain management application using RNNs! (20219)
 
 <!---
 Add CV
