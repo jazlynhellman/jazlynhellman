@@ -1,9 +1,9 @@
 # Welcome to my page!
-:sunglasses:  Hi, I’m @jazlynhellman, a 25 year-old Ph.D. student from New York currently living in Montreal, Quebec.
+:sunglasses:  Hi, I’m @jazlynhellman, a Ph.D. student from New York living in Montreal, Quebec.
 
 ## About 
 
-I’m a first-year Ph.D. student at McGill University conducting research at the intersection of HCI and software engineering under the supervision of Prof. Jin L.C. Guo
+I’m a third-year Ph.D. student at McGill University conducting research at the intersection of HCI and software engineering under the supervision of Prof. Jin L.C. Guo
 and co-supervision of Prof. Jinghui Cheng. 
 
 :scroll: My M.Sc. thesis was on open-source software usability and participatory design through analyzing power structures between key stakeholders.
@@ -13,11 +13,14 @@ I have a B.A. in Software Engineering and International Development with minors 
 :briefcase: My CV can be viewed [here](https://github.com/jazlynhellman/jazlynhellman/blob/main/CV_JazlynHellman_Dec2021.pdf)!
 
 ## Publications :newspaper:	
-Our article was published in the CHASE 2022 conference. Take a look at the paper ["Characterizing User Behaviors in Open-Source Software User Forums: An Empirical Study"](https://dl.acm.org/doi/10.1145/3528579.3529178) and the [presentation video](https://www.youtube.com/watch?v=rh8U0TnbUOc&t=1s).
+**[2022]** Take a look at my M.Sc. thesis on understanding power dynamics between open-source software usability stakeholders. ["Improving the usability of free, libre, and open-source software through understanding participation and power"](https://escholarship.mcgill.ca/concern/theses/p5547x73d)
 
-Check out my (pre-print) article on ["Generating GitHub Repository Descriptions: A Comparison of Manual and Automated Approaches"](https://arxiv.org/abs/2110.13283)! (2021)
 
-My work was accepted as a Late Breaking Work paper to the CHI2021 conference. Take a look at my paper ["Facilitating Asynchronous Participatory Design of Open Source Software: Bringing End Users into the Loop"](https://dl.acm.org/doi/10.1145/3411763.3451643) and my [teaser video](https://www.youtube.com/watch?v=_A_Ci6qpj8c&ab_channel=ACMSIGCHI)!
+**[2022]** Our article was published in the CHASE 2022 conference. Take a look at the paper ["Characterizing User Behaviors in Open-Source Software User Forums: An Empirical Study"](https://dl.acm.org/doi/10.1145/3528579.3529178) and the [presentation video](https://www.youtube.com/watch?v=rh8U0TnbUOc&t=1s).
+
+**[2021]** Check out my (pre-print) article on ["Generating GitHub Repository Descriptions: A Comparison of Manual and Automated Approaches"](https://arxiv.org/abs/2110.13283)! (2021)
+
+**[2021]** My work was accepted as a Late Breaking Work paper to the CHI2021 conference. Take a look at my paper ["Facilitating Asynchronous Participatory Design of Open Source Software: Bringing End Users into the Loop"](https://dl.acm.org/doi/10.1145/3411763.3451643) and my [teaser video](https://www.youtube.com/watch?v=_A_Ci6qpj8c&ab_channel=ACMSIGCHI)!
 
 # Design and Art
 
@@ -40,4 +43,4 @@ Add 3 projects
 ## Art Portfolio :art:
 If you are curious and want to take a look at some of my art, feel free to [here](https://github.com/jazlynhellman/jazlynhellman/tree/main/jazhands_art).
 
-I recommend clicking "download" to view them in a better size. Hope you enjoy and welcome to my page!
+And I'm slowly working on my social media prescence! Find me on Instagram [@jaz_the_artsy_scientist](https://www.instagram.com/jaz_the_artsy_scientist/) and on TikTok [@jazlynart](https://www.tiktok.com/@jazlynart)
